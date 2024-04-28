@@ -1,0 +1,730 @@
+[
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-01",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-02",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-03",
+    "cases": 90.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-04",
+    "cases": 1239.0,
+    "deaths": 41.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-05",
+    "cases": 13113.0,
+    "deaths": 205.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-06",
+    "cases": 16173.0,
+    "deaths": 455.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-07",
+    "cases": 5420.0,
+    "deaths": 543.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-08",
+    "cases": 2107.0,
+    "deaths": 156.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-09",
+    "cases": 1049.0,
+    "deaths": 51.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-10",
+    "cases": 1576.0,
+    "deaths": 58.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-11",
+    "cases": 5198.0,
+    "deaths": 241.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2020-12",
+    "cases": 5882.0,
+    "deaths": 406.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-01",
+    "cases": 3175.0,
+    "deaths": 242.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-02",
+    "cases": 691.0,
+    "deaths": 43.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-03",
+    "cases": 580.0,
+    "deaths": 27.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-04",
+    "cases": 2549.0,
+    "deaths": 112.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-05",
+    "cases": 11918.0,
+    "deaths": 337.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-06",
+    "cases": 43459.0,
+    "deaths": 1731.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-07",
+    "cases": 29651.0,
+    "deaths": 1775.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-08",
+    "cases": 9162.0,
+    "deaths": 684.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-09",
+    "cases": 1866.0,
+    "deaths": 90.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-10",
+    "cases": 1189.0,
+    "deaths": 73.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-11",
+    "cases": 1102.0,
+    "deaths": 36.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2021-12",
+    "cases": 712.0,
+    "deaths": 44.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-01",
+    "cases": 3764.0,
+    "deaths": 55.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-02",
+    "cases": 11514.0,
+    "deaths": 181.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-03",
+    "cases": 4294.0,
+    "deaths": 72.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-04",
+    "cases": 1174.0,
+    "deaths": 21.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-05",
+    "cases": 1475.0,
+    "deaths": 20.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-06",
+    "cases": 1949.0,
+    "deaths": 16.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-07",
+    "cases": 3508.0,
+    "deaths": 30.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-08",
+    "cases": 6628.0,
+    "deaths": 27.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-09",
+    "cases": 6075.0,
+    "deaths": 22.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-10",
+    "cases": 4551.0,
+    "deaths": 25.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-11",
+    "cases": 2762.0,
+    "deaths": 12.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2022-12",
+    "cases": 1726.0,
+    "deaths": 12.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-01",
+    "cases": 1098.0,
+    "deaths": 21.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-02",
+    "cases": 831.0,
+    "deaths": 12.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-03",
+    "cases": 829.0,
+    "deaths": 4.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-04",
+    "cases": 4800.0,
+    "deaths": 10.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-05",
+    "cases": 6337.0,
+    "deaths": 23.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-06",
+    "cases": 1939.0,
+    "deaths": 13.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-07",
+    "cases": 1068.0,
+    "deaths": 7.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-08",
+    "cases": 875.0,
+    "deaths": 7.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-09",
+    "cases": 900.0,
+    "deaths": 5.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-10",
+    "cases": 1540.0,
+    "deaths": 6.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-11",
+    "cases": 1436.0,
+    "deaths": 10.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2023-12",
+    "cases": 1400.0,
+    "deaths": 10.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2024-01",
+    "cases": 958.0,
+    "deaths": 8.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2024-02",
+    "cases": 657.0,
+    "deaths": 1.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2024-03",
+    "cases": 958.0,
+    "deaths": 3.0
+  },
+  {
+    "iso_code": "AFG",
+    "location": "Afghanistan",
+    "month_and_year": "2024-04",
+    "cases": 524.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-01",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-02",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-03",
+    "cases": 1233.0,
+    "deaths": 7.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-04",
+    "cases": 10705.0,
+    "deaths": 244.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-05",
+    "cases": 54517.0,
+    "deaths": 1142.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-06",
+    "cases": 132426.0,
+    "deaths": 2640.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-07",
+    "cases": 73004.0,
+    "deaths": 1752.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-08",
+    "cases": 23485.0,
+    "deaths": 497.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-09",
+    "cases": 14209.0,
+    "deaths": 167.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-10",
+    "cases": 17482.0,
+    "deaths": 276.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-11",
+    "cases": 65293.0,
+    "deaths": 1215.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2020-12",
+    "cases": 77126.0,
+    "deaths": 1874.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-01",
+    "cases": 73732.0,
+    "deaths": 1807.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-02",
+    "cases": 35583.0,
+    "deaths": 1214.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-03",
+    "cases": 71027.0,
+    "deaths": 1321.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-04",
+    "cases": 140192.0,
+    "deaths": 2841.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-05",
+    "cases": 126223.0,
+    "deaths": 3681.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-06",
+    "cases": 37603.0,
+    "deaths": 1508.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-07",
+    "cases": 48033.0,
+    "deaths": 783.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-08",
+    "cases": 146697.0,
+    "deaths": 2564.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-09",
+    "cases": 88316.0,
+    "deaths": 1989.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-10",
+    "cases": 35457.0,
+    "deaths": 915.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-11",
+    "cases": 11541.0,
+    "deaths": 265.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2021-12",
+    "cases": 9195.0,
+    "deaths": 201.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-01",
+    "cases": 116932.0,
+    "deaths": 314.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-02",
+    "cases": 97644.0,
+    "deaths": 934.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-03",
+    "cases": 15933.0,
+    "deaths": 187.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-04",
+    "cases": 4161.0,
+    "deaths": 29.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-05",
+    "cases": 2484.0,
+    "deaths": 10.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-06",
+    "cases": 3247.0,
+    "deaths": 7.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-07",
+    "cases": 20448.0,
+    "deaths": 100.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-08",
+    "cases": 14253.0,
+    "deaths": 85.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-09",
+    "cases": 4086.0,
+    "deaths": 41.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-10",
+    "cases": 1653.0,
+    "deaths": 13.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-11",
+    "cases": 1143.0,
+    "deaths": 5.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2022-12",
+    "cases": 586.0,
+    "deaths": 5.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-01",
+    "cases": 601.0,
+    "deaths": 5.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-02",
+    "cases": 543.0,
+    "deaths": 1.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-03",
+    "cases": 2211.0,
+    "deaths": 7.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-04",
+    "cases": 1625.0,
+    "deaths": 8.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-05",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-06",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-07",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-08",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-09",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-10",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-11",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2023-12",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2024-01",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2024-02",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2024-03",
+    "cases": 0.0,
+    "deaths": 0.0
+  },
+  {
+    "iso_code": "PAK",
+    "location": "Pakistan",
+    "month_and_year": "2024-04",
+    "cases": 0.0,
+    "deaths": 0.0
+  }
+]
